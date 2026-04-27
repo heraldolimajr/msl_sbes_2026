@@ -1,7 +1,7 @@
 # Systematic Mapping Study – Raw Data and Artifacts (SBES 2026)
 
-This repository provides the complete set of raw data and supporting artifacts associated with the Systematic Mapping Study (SMS) "When Code Becomes Collective: A Systematic Mapping Study on
-the Assessment of Group Projects in Software Engineering Education", submitted to SBES 2026. Its purpose is to ensure transparency, reproducibility, and openness throughout the research process.
+This repository provides the complete set of raw data and supporting artifacts associated with the Systematic Mapping Study (SMS) **"When Code Becomes Collective: A Systematic Mapping Study on
+the Assessment of Group Projects in Software Engineering Education"**, submitted to 40th Brazilian Symposium on Software Engineering - 2026. Its purpose is to ensure transparency, reproducibility, and openness throughout the research process.
 
 ---
 
@@ -21,16 +21,10 @@ All files are located in the root directory and correspond to different stages o
   PDF files containing the spreadsheets used during the first screening phase, including inclusion/exclusion decisions and duplicate removal.
 
 - 📄 **Full-Text Screening (Detailed Analysis)**  
-  PDF files with the results of the full-text reading phase, including refined selection decisions and justification notes.
+  PDF files with the results of the full-text reading phase, including inclusion/exclusion decisions.
 
 - 📄 **Data Extraction**  
   PDF files corresponding to the data extraction forms and the extracted dataset from the selected primary studies.
-
-- 📄 **Research Protocol (if applicable)**  
-  PDF document describing the study design, research questions, search strings, and methodological procedures.
-
-- 📄 **Additional Documentation (if applicable)**  
-  Supplementary materials that support understanding and reuse of the dataset.
 
 ---
 
