@@ -84,7 +84,6 @@ Full citation details will be provided after publication.
 
 ## 📬 Contact
 
-For questions or clarifications, please use the repository’s discussion features (if enabled).  
 Author contact information will be provided after the review process.
 
 ---
