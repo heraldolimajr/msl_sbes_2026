@@ -28,19 +28,6 @@ All files are located in the root directory and correspond to different stages o
 
 ---
 
-## ⚙️ Methodological Notes
-
-This dataset was produced following established guidelines for Systematic Mapping Studies in Software Engineering. The process includes:
-
-1. Definition of research questions  
-2. Construction and execution of search strings across multiple digital libraries  
-3. Study selection through a multi-stage screening process  
-4. Data extraction based on predefined criteria  
-
-All decisions made during screening and extraction are documented in the corresponding PDF files.
-
----
-
 ## 🔁 Reproducibility
 
 This repository is structured to support reproducibility. Researchers can:
