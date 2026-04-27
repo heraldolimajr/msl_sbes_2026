@@ -1,6 +1,7 @@
 # Systematic Mapping Study – Raw Data and Artifacts (SBES 2026)
 
-This repository provides the complete set of raw data and supporting artifacts associated with the Systematic Mapping Study (SMS) submitted to SBES 2026. Its purpose is to ensure transparency, reproducibility, and openness throughout the research process.
+This repository provides the complete set of raw data and supporting artifacts associated with the Systematic Mapping Study (SMS) "When Code Becomes Collective: A Systematic Mapping Study on
+the Assessment of Group Projects in Software Engineering Education", submitted to SBES 2026. Its purpose is to ensure transparency, reproducibility, and openness throughout the research process.
 
 ---
 
