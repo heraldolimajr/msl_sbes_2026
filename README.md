@@ -17,13 +17,13 @@ All artifacts are provided as **PDF files** and are available directly in the **
 
 All files are located in the root directory and correspond to different stages of the study:
 
-- 📄 **dados_etapa1_triagem.pdf - Initial Screening (Titles and Abstracts)**  
+- 📄 **[dados_etapa1_triagem.pdf](https://github.com/heraldolimajr/msl_sbes_2026/blob/main/dados_etapa1_triagem.pdf) - Initial Screening (Titles and Abstracts)**  
   PDF files containing the spreadsheets used during the first screening phase, including inclusion/exclusion decisions and duplicate removal.
 
-- 📄 **dados_etapa2_analise_detalhada.pdf - Full-Text Screening (Detailed Analysis)**  
+- 📄 **[dados_etapa2_analise_detalhada.pdf](https://github.com/heraldolimajr/msl_sbes_2026/blob/main/dados_etapa2_analise_detalhada.pdf) - Full-Text Screening (Detailed Analysis)**  
   PDF files with the results of the full-text reading phase, including inclusion/exclusion decisions.
 
-- 📄 **dados_etapa3_extracao.pdf - Data Extraction**  
+- 📄 **[dados_etapa3_extracao.pdf](https://github.com/heraldolimajr/msl_sbes_2026/blob/main/dados_etapa3_extracao.pdf) - Data Extraction**  
   PDF files corresponding to the data extraction forms and the extracted dataset from the selected primary studies.
 
 ---
